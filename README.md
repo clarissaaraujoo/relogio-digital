@@ -1,2 +1,14 @@
-# relogio-digital
-Relógio digital desenvolvido com HTML, CSS e JavaScript puro, com atualização em tempo real, foco em manipulação do DOM, funções nativas de data e responsividade.
+# Relógio Digital
+
+Projeto de relógio digital desenvolvido com HTML, CSS e JavaScript puro.
+
+## Funcionalidades
+- Exibe horas, minutos e segundos
+- Atualização em tempo real
+- Mensagem dinâmica (Bom dia / Boa tarde / Boa noite)
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+
